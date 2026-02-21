@@ -4,7 +4,7 @@ Hi, I'm Vrushabh Salvi, an aspiring Frontend and SQL Developer passionate about 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vrushabh_34/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vrushabh-salvi-a34b85242/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushabh-salvi-a34b85242/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salvivrushabh34@gmail.com) 
 
 # 💻 Tech Stack:
